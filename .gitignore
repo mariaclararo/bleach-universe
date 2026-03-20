@@ -1,0 +1,15 @@
+# Java/Maven
+target/
+*.class
+
+# Backup files
+*~
+*.dia~
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.settings/
+.project
+.classpath
